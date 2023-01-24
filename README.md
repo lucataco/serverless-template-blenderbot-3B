@@ -1,7 +1,7 @@
 
 # 🍌 Banana Serverless
 
-This repo gives a framework to serve ML models in production using simple HTTP servers.
+This repo gives a framework to run BlenderBot3B in production with Banana. The model can be found on [huggingface here](https://huggingface.co/facebook/blenderbot-3B). The example test case implemented can be [found here](https://huggingface.co/docs/transformers/model_doc/blenderbot#usage).
 
 # Quickstart
 **[Follow the quickstart guide in Banana's documentation to use this repo](https://docs.banana.dev/banana-docs/quickstart).** 
