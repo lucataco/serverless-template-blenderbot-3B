@@ -1,0 +1,11 @@
+{
+    "name": "Blenderbot 3B",
+    "category": "Natural Language",
+    "example_input": {
+        "prompt": "My friends are cool but they eat too many carbs."
+    },
+    "example_output": {
+        "output": "<s> That's unfortunate. It's hard to eat healthy when everyone around you eats unhealthy.</s>"
+    },
+    "version": "1"
+  }
